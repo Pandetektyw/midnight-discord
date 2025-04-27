@@ -32,7 +32,7 @@ body {
         border-radius: 50%;
     }
     .winButton_c38106:hover::after {
-        filter: brightness(0.7);
+        filter: brightness(0.2);
     }
     .winButton_c38106:active::after {
         transform: scale(0.9);
